@@ -133,7 +133,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\glad\src\glad.c" />
-    <ClCompile Include="ExamenBimestral2.cpp" />
+    <ClCompile Include="Proyecto.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\FS_Proyecto.fs" />

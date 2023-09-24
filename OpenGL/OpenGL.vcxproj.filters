@@ -21,7 +21,7 @@
     <ClCompile Include="..\..\..\..\Desktop\glad\src\glad.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="ExamenBimestral2.cpp">
+    <ClCompile Include="Proyecto.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
